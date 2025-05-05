@@ -3,6 +3,7 @@
 # SqlToEcto
 
 SqlToEcto is an Elixir library that converts SQL-like query strings into Ecto queries. It provides a simple way to dynamically generate Ecto queries using familiar SQL syntax.
+**Use with caution**
 
 ## Features
 
